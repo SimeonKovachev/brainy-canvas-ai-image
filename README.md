@@ -128,7 +128,7 @@ User-generated content and session data are stored in a MongoDB database, ensuri
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ----------
 
